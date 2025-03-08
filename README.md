@@ -22,10 +22,10 @@ The system will focus on the following key functionalities:
 The primary users of this system are **UPSI students** who need a reliable platform to manage their college bookings efficiently.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (Framework TBD)
-- **Backend**: PHP / Node.js (Framework TBD)
-- **Database**: MySQL / Firebase
-- **Authentication**: JWT / OAuth
+- **Frontend**: HTML, CSS, JavaScript 
+- **Backend**: PHP 
+- **Database**: MySQL 
+- **Authentication**: Basic auth (PHP Sessions & MySQL)
 
 ## Future Enhancements
 - **Automated Notification System** for booking reminders.
